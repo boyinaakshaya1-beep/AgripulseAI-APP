@@ -1,0 +1,12 @@
+{
+  "name": "Remix Remix AgriPulse AI",
+  "description": "Multilingual AI farming assistant for conversational voice agronomy, crop disease detection, weather advisories, and precision crop care.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
